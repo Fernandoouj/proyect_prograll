@@ -1,6 +1,6 @@
 import requests
 import pandas as pd
-import matplotlib.pyplot as plt
+import matplotlib as plt
 import streamlit as st
 import datetime 
 from datetime import timedelta
